@@ -1,0 +1,18 @@
+.drafts/
+research/upstream/
+__pycache__/
+.test-tmp/
+.venv/
+
+# Local review/runtime outputs are never public artifacts.
+.private/
+.drafts/
+.runtime/
+runtime/
+.test-tmp/
+.test-work/
+.verification-work/
+__pycache__/
+*.py[cod]
+.venv/
+graphify-out/

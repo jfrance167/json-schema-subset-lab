@@ -1,0 +1,9 @@
+# Attribution and AI assistance
+
+Original schema-position grammar/support/evaluation and explicit full expected outcomes authored for Jake with Codex assistance. Strict admission/clone/typed equality and checked CLI/real sink tests/mutation harness adapted from Jake's owned accepted JSON Patch lab; originals unchanged, no runtime coupling. The fixture authoring helper uses explicit original expected rows, not production/upstream evaluation. Candidate code/tests and dialect text informed the design; no upstream executable components or conformance vectors adopted.
+
+Private inert python-jsonschema/jsonschema captures at84bae0ea4775c139701d1b38e4e294b3950b304f retain MIT Julian Berman2013 COPYING. Retained python-json-patch comparison has separate BSD3 license in the prior Merge Patch capture. Product MIT does not relicense third-party research. Connector-text hashes attest saved text, not Git blob byte identity.
+
+Research used one bounded loopback qwen3.5:2b heading draft with reviewed correction. Implementation used one actual local test-idea inference after app-approved sandbox access and stopped-service startup; all six weak suggestions rejected. Raw draft/metadata/review preserved. Deliberately considered configured free OpenRouter for a short public draft, but refreshed guardrails were unverified/degraded, so no remote inference occurred. Codex retained security/contract/source judgments, implementation, correction, ECC self-review and necessary checks. No spending or measured-savings claim.
+
+Ponytail lite/review applied as a complementary complexity check; no hooks/trust changes, upstream tests or benchmarks executed. ECC remains the correctness/security review, not an independent audit. No repository, hosted baseline, publication, messages or external system actions.

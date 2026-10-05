@@ -1,0 +1,1 @@
+{"schema":"schema-subset-lab/1","dialect":"2020-12","definition":{"type":"object","required":["port"],"properties":{"port":{"type":"integer","enum":[443]},"comment":{"type":"string"}},"additionalProperties":false},"instance":{"port":null,"extra":false}}
